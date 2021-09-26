@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning **Web Development**
+- 💬 Ask me about **anything you would like to ask**
+- 📫 How to reach me: brucezzhu@gmail.com
+- 😄 Pronouns: **He/His**
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruce-zzhu&count_private=true&theme=react&show_icons=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 
