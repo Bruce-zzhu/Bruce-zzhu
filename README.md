@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning **Web Development**
-- 💬 Ask me about **anything you would like to ask**
+- 💬 Ask me about **anything you would like to know about me**
 - 📫 How to reach me: brucezzhu@gmail.com
 - 😄 Pronouns: **He/His**
 
