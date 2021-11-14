@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Bruce(Yicong) Zhu, a passionate undergraduate student pursuing to become a software developer in the future.
+My name is Bruce(Yicong) Zhu, a passionate undergraduate student pursuing to become a full stack developer in the future.
 
 - 🌱 I’m currently learning **Web Development**
 - 💬 Ask me about **anything you would like to know about me**
