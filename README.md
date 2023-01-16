@@ -8,9 +8,9 @@ My name is Bruce(Yicong) Zhu, a graduate software developer, passionate about bu
 - 👀 Interests: Badminton🏸, Guitar🎸
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruce-zzhu&count_private=true&theme=react&show_icons=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bruce-zzhu&count_private=true&theme=react&show_icons=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruce-zzhu&langs_count=8&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bruce-zzhu&langs_count=8&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![grid-snake](./assets/github-contribution-grid-snake.svg)
