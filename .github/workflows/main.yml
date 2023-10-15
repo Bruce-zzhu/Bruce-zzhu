@@ -5,7 +5,7 @@ name: grid snake
 on:
   # run automatically every 100 hours
   schedule:
-    - cron: "0 */100 * * *" 
+    # - cron: "0 */100 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
