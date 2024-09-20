@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Bruce(Yicong) Zhu, a graduate software developer, passionate about building products that bring **fun** and **positive impact** to people's life
+My name is Bruce(Yicong) Zhu, a software developer, passionate about building products that bring **fun** and **positive impact** to people's life
 
 - 🌱 I’m currently learning **AWS**
 - 📫 How to reach me: brucezzhu@gmail.com
